@@ -1,5 +1,7 @@
 pkg update && pkg upgrade
 termux-setup-storage
+cd
+cd
 pkg install python
 pkg install openssh
 pip uninstall requests urllib3 six
