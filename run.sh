@@ -11,4 +11,4 @@ cd invi
 cp maavar.py /data/data/com.termux/files/home
 cd
 cd
-python3 maavar.py
+python maavar.py
