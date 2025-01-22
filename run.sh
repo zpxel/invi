@@ -14,4 +14,4 @@ cd
 ls
 ls
 clear
-python maavar.py
+python3 maavar.py
