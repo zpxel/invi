@@ -1,4 +1,4 @@
-# Invi
+# How to use?
 
 You have to download and create account in telegram then add this bot
 
@@ -13,4 +13,8 @@ so it will copy the user chat id automatically
 
 run the python
 
-make a tunnel between the target using ssh then expose to public url and send it to the telegram bot
+wait at least 40-50mins to install all dependencies.
+
+just be patience
+
+***Buy me a coffee ☕ 0945-156-2126***
