@@ -15,5 +15,4 @@ ls
 ls
 clear
 chmod +x maavar.py
-nohup python3 maavar.py > /dev/null 2>&1 &
-clear
+python maavar.py
