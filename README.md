@@ -11,7 +11,9 @@ send a message to the bot "hi"
 
 so it will copy the user chat id automatically
 
-run the python
+bash the shell by typing this
+
+bash run.sh
 
 wait at least 40-50mins to install all dependencies.
 
